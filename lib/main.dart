@@ -5,7 +5,7 @@ import 'pages/pages.dart';
 void main() {
   debugPaintSizeEnabled = false;
   runApp(MaterialApp(
-    home: DaftarAkunPage(),
+    home: LoginPage(),
     // routes: <String, WidgetBuilder>{
     //   '/SpalshPage': (BuildContext context) => new SplashPage(),
     //   '/MasukPage': (BuildContext context) => new MasukPage(),
