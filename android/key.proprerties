@@ -1,0 +1,4 @@
+storePassword=rekapin2020
+keyPassword=rekapin2020
+keyAlias=key
+storeFile= ../keystore.jks
